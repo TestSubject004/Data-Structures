@@ -6,4 +6,5 @@ A respository containing a basic,bare-bones implementation for the following dat
 - Hash
 - Maps
 - Heaps
+
 I have not included circular lists, stacks and queues as they can be created by modify the code of the linked lists. The basic structure for ADTs are similar.
