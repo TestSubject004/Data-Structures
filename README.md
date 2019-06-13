@@ -1,4 +1,4 @@
-# Data-Structures
+# Data Structures
 A respository containing a basic,bare-bones implementation for the following data structures:
 - Vectors
 - Linked List (Singular and Double) 
